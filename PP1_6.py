@@ -1,8 +1,8 @@
 '''
-	File Name: errors.py
-	Author: Mr. Kalisz
+	Practice Questions: errors.py
+	Author: Johnny Zhao
 	Date Created: March 29, 2019
-	Date Last Edited: Sept 23, 2024
+	Date Last Edited: Sept 24, 2024
 '''
 
 # From input, recieve two integers from the user and add them together.  Output the result.
